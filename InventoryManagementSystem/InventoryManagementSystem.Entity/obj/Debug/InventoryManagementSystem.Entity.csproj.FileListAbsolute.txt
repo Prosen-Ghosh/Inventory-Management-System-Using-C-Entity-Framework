@@ -1,0 +1,9 @@
+C:\Users\prosen\documents\visual studio 2013\Projects\InventoryManagementSystem\InventoryManagementSystem.Entity\bin\Debug\InventoryManagementSystem.Entity.dll
+C:\Users\prosen\documents\visual studio 2013\Projects\InventoryManagementSystem\InventoryManagementSystem.Entity\bin\Debug\InventoryManagementSystem.Entity.pdb
+C:\Users\prosen\documents\visual studio 2013\Projects\InventoryManagementSystem\InventoryManagementSystem.Entity\obj\Debug\InventoryManagementSystem.Entity.dll
+C:\Users\prosen\documents\visual studio 2013\Projects\InventoryManagementSystem\InventoryManagementSystem.Entity\obj\Debug\InventoryManagementSystem.Entity.pdb
+C:\Users\prosen\documents\visual studio 2013\Projects\InventoryManagementSystem\InventoryManagementSystem.Entity\obj\Debug\InventoryManagementSystem.Entity.csprojResolveAssemblyReference.cache
+C:\Users\ASUS1\Documents\Visual Studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.Entity\bin\Debug\InventoryManagementSystem.Entity.dll
+C:\Users\ASUS1\Documents\Visual Studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.Entity\bin\Debug\InventoryManagementSystem.Entity.pdb
+C:\Users\ASUS1\Documents\Visual Studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.Entity\obj\Debug\InventoryManagementSystem.Entity.dll
+C:\Users\ASUS1\Documents\Visual Studio 2015\Projects\InventoryManagementSystem\InventoryManagementSystem\InventoryManagementSystem.Entity\obj\Debug\InventoryManagementSystem.Entity.pdb
